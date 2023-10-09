@@ -18,6 +18,18 @@
 * Body 与 subjective body 不符合: gender dysphoria
 
 ## Automatism 自动症
-梦游杀人案：1.负责 2.自愿
-· being conscious
-· 自动行为本身是否反映出人的价值认同？
+梦游杀人案：1.负责 reponsible 2.自愿 voluntary
+* being conscious 有意识？= 负责的标准
+* 自动行为本身是否反映出人的价值认同？
+* 舍身取义的选择
+
+## Mind & Brain
+### Dualism
+Cartesian Dualism: 提供了一个关于灵魂不朽的解释；实体二元论：1. 有“广延”属性的物质 2. 具有 spiritual属性->mind。两种本源可以互相交换
+* 心灵和物质、物理（不具有心灵属性）在大脑的一个部位交汇。松果腺：生物学上出现错误。
+* 实际上 brain 也是 body 一部分
+#### “物质->思想” 的过程如何实现
+意识如何从物质中产生
+###
+
+##
