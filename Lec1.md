@@ -1,9 +1,11 @@
 # Lec 1
-## 先导
+
+## What Neuroscience Can (and Cannot) Tell Us about Criminal (CH3 of BBM_W.Glannon)
+* How to check Responsibility
 * 肿瘤影响人的犯罪倾向
 * 台剧：《八尺门的辩护人》
-绝命毒师 
-相关性和因果性：如何定罪
+- 绝命毒师 
+- 相关性和因果性：如何定罪
 
 ## Body Integrity Indentity Disorder (BIID) 
 * 身体完整认同障碍
