@@ -42,4 +42,19 @@ assumption: 参与认知加工=属于认知过程的一部分
 * 是一种 Couple 吗？耦合是一个很 slopy 的词语
 * 两个人协同任务 MRI扫描
 * idea：老年AD couple 患者，memory，训练恢复记忆？
-
+## 功能主义/计算主义的主流观点 
+* 通过计算，身体可以模拟，情感可以模拟
+* 神经科学：电化学运作；通过计算来复刻而不是通过物质
+## 反思
+* logical and nomological possibiliyy vs. contigent fact
+* crucial problem: what is cognition? how to define the boundary？
+    - 认知仅仅是一种计算吗？
+    - parity thesis 对称原则本身成立吗？     
+* 功能主义指导下的**对称理论**：如果某个部分可以复现/实现/完成大脑认知过程完成的功能，那么世界的这个部分也被认为是认知过程的一部分。
+* 认知 + 行动！= 人
+* 审美：美beauty和崇高sublime 不应被认为仅仅是功能
+* 对称原则似乎不能完全成立，并不是伦理上的概念
+## 分析哲学：弗雷格 Frege
+* 指称（Referenz）： 在德语中，指称通常用 "Referenz" 表示。例如，"die Sonne"（太阳）这个词在德语中指称实际上的太阳。在讨论语言和语义时，德语学者可能使用 "Referenz" 来强调词语或符号与现实世界对象之间的关联。
+* 意义（Bedeutung）： 在德语中，"意义"通常用 "Bedeutung" 表示。这一术语涵盖了一个词语或符号在语言中所携带的信息或引导的概念。当讨论语言的语义结构时，德语学者可能使用 "Bedeutung" 来讨论词语的含义或符号的语义。
+* ChatGPT是无法识别意义的
