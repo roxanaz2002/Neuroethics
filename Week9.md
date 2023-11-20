@@ -26,3 +26,11 @@
 - wet是无法保持OI的属性
 - 如果意识是OI的，就可以实现 uploading
 #### 具身认知 embodied cognition
+### Is the One being Uploaded me?
+#### optimistic/pessimistic view
+#### teletransporter/uploading
+### 人如何存活
+- 生物连续性： Organism by Olson
+- 心理连续性
+  - 经验主义哲学家，现代多数哲学家都赞成这个观点
+  - closet-continuer theories by Nozick [https://en.wikipedia.org/wiki/Robert_Nozick]
