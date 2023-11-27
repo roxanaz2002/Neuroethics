@@ -34,3 +34,15 @@
 - 心理连续性
   - 经验主义哲学家，现代多数哲学家都赞成这个观点
   - closet-continuer theories by Nozick [https://en.wikipedia.org/wiki/Robert_Nozick]
+### 宗教，基督教末世和意识上传后的世界
+- 后人类时代和意识上传的联系
+- 赛博格人类的思潮
+- 哲学性话题
+- personal identity
+#### 上传的人是否是自己
+### 问题/反思
+- 冷冻术
+- 重建上传
+- 伦理问题（没有讨论）
+- computationism; simulation; organism; survive
+- 计算主义；生物体，存活的定义
