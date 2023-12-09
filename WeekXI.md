@@ -5,10 +5,10 @@
 - 右派传统，反对生物增强；卓越源自于一种对于有限性的把握.giftedness
 - Speech of Justice
 ### Harris
-    - 人的差异性才带来卓越性
-    - 卓越不是自然禀赋的结果，药物只是起到辅助作用；再者，人本来在天赋上不平等。
-    - "Sandel can have the unbidden and the welcome, but on condition that he will let me and others have access to the bidden."
-    - "Sandel 可以不用药物，保留自己对于自然禀赋的赞颂；但是他不来妨碍我们去生物增强就好。"
+- 人的差异性才带来卓越性
+- 卓越不是自然禀赋的结果，药物只是起到辅助作用；再者，人本来在天赋上不平等。
+- "Sandel can have the unbidden and the welcome, but on condition that he will let me and others have access to the bidden."
+- "Sandel 可以不用药物，保留自己对于自然禀赋的赞颂；但是他不来妨碍我们去生物增强就好。"
 ## Moral Enhancement: New and Old
 - “课程思政”，教案写作出现对于学习的道德评判。道德教育，训诫
 - 个人品格、动机、行为刻意道德提升
